@@ -6,7 +6,7 @@
     <version>0.29-rc2</version>
     <packageSourceUrl>https://github.com/belidzs/chocolatey-extraputty.portable</packageSourceUrl>
     <owners>belidzs</owners>
-    <title>extraputty (Portable)</title>
+    <title>ExtraPuTTY (Portable)</title>
     <authors>Sebastien Blavier</authors>
     <projectUrl>http://extraputty.com</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/belidzs/chocolatey-extraputty.portable/icons/extraputty.png</iconUrl>
