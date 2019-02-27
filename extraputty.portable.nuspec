@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>extraputty.portable</id>
+    <version>0.29-rc2</version>
+    <packageSourceUrl>https://github.com/belidzs/chocolatey-extraputty.portable</packageSourceUrl>
+    <owners>belidzs</owners>
+    <title>extraputty (Portable)</title>
+    <authors>Sebastien Blavier</authors>
+    <projectUrl>http://extraputty.com</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/belidzs/chocolatey-extraputty.portable/icons/extraputty.png</iconUrl>
+    <copyright>2007-2015 Sébastian Blavier. All rights reserved</copyright>
+    <licenseUrl>http://extraputty.com/license.html</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>http://extraputty.com/htmldoc/</docsUrl>
+    <tags>extraputty putty ssh</tags>
+    <summary>ExtraPuTTY is a fork from 0.67 version of PuTTY.</summary>
+    <description>## ExtraPuTTY is a fork from 0.67 version of PuTTY.
+
+ExtraPuTTY has all the features from the original soft and adds others.
+
+Below a short list of the principal features (see all features):
+* DLL frontend
+* TestStand API ( LabWindows ,TestStand 2012)
+* timestamp
+* StatusBar
+* Scripting a session with lua 5.3.
+* Automatic sequencing of commands.
+* Shortcuts for pre-defined commands.
+* Keyboard shortcuts for pre-defined command
+* Portability (use of directories structure)
+* Integrates FTP,TFTP,SCP,SFTP,Ymodem,Xmodem transfert protocols
+* Integrates PuTTYcyg,PuTTYSC, HyperLink, zmodem and session manager projects
+* Change default settings from configuration file
+* Change putty settings during session
+* PuTTYcmdSender : tool to send command or keyboard shortcut to multiple putty windows
+
+It is written and maintained primarily by Sebastien Blavier and Simon Tatham (team's) for PuTTY.
+ExtraPuTTY is free and only designed for Microsoft Windows platform.</description>
+    <releaseNotes>http://extraputty.com/changes.html</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
