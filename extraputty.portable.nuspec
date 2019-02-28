@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>extraputty.portable</id>
-    <version>0.29-rc2</version>
+    <version>0.30-snapshot</version>
     <packageSourceUrl>https://github.com/belidzs/chocolatey-extraputty.portable</packageSourceUrl>
     <owners>belidzs</owners>
     <title>ExtraPuTTY (Portable)</title>
